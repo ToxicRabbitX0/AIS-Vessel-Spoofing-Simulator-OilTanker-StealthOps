@@ -1,4 +1,12 @@
-#AIS Vessel Spoofing Simulator — Oil Tanker Stealth Ops
+<!--
+#️⃣ Tags:
+AIS spoofing simulator, vessel identity manipulator, oil tanker stealth, ship ghost tool, AIS NMEA spoofer, cargo ship cloaking, SDR spoof simulator, maritime cyber ops, AIS red teaming, ghost fleet generator, RedRepo, stealth vessel sim, dark sea tools, spoofed location marine, illegal AIS activity analysis
+
+📚 Keywords:
+AIS vessel spoof tool, fake ship AIS signal, oil tanker hiding tool, ship tracking deception simulator, ghost fleet simulator GitHub, maritime threat simulator, AIS SDR fake packets, RedRepo AIS project, AIS security tool, spoof marine tracker, stealth ship creator, AIS location override API
+-->
+
+##AIS Vessel Spoofing Simulator — Oil Tanker Stealth Ops
 
 > ⚠️ This project is for **educational and research** purposes **only**. No real AIS transmissions are sent.  
 > Contact via Telegram: [@RedRepo](https://t.me/RedRepo)
