@@ -20,13 +20,6 @@ It demonstrates how AIS data can be simulated, manipulated, and visualized for c
 
 AIS spoofing GitHub, vessel spoof tool, oil tanker stealth, ship tracking simulator, maritime cybersecurity, AIS simulator, ghost vessel generator, cargo ship AIS fake, automatic identification system override
 
-<blockquote style="border-left: 4px solid #A855F7; padding: 1em; background: #2c2c2c; color: #e0d4ff;">
-  <strong>📌 Important</strong><br>
-  Since the GitHub API only <a href="https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting">allows 5k requests per hour</a>,<br>
-  the Vercel instance might hit the rate limit. Use your own instance to avoid this.<br>
-  ➕ <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance">Deploy your own</a>
-</blockquote>
-
 ---
 
 ## 🧰 Features
